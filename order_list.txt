@@ -1,0 +1,17 @@
+================ COSMETIC STORE ORDER LIST ================
+Order ID    : ORD-001
+Invoice Date: 03/11/2026
+Customer    : Vo Thi Sau (ID: CUS01 | Phone: 0901234567 | Address: District 1, HCMC)
+Package     : Romantic Package [Total Package Price: 3.000.000 VND]
+      * Rose Perfume (ID: P01, 50 ml x 20.000 VND/ml = 1.000.000 VND)
+      * Dry Skin Shower Gel (ID: SG01, 100 ml x 20.000 VND/ml = 2.000.000 VND)
+Order Total : 3.000.000 VND
+------------------------------------------------------------
+Order ID    : ORD-002
+Invoice Date: 03/11/2026
+Customer    : Dang Van Lam (ID: CUS02 | Phone: 0987654321 | Address: District 7, HCMC)
+Package     : Fresh-Air Package [Total Package Price: 4.750.000 VND]
+      * Oily Hair Shampoo - Standard 2 (ID: SH01, 100 ml x 40.000 VND/ml = 4.000.000 VND)
+      * Chamomile Perfume (ID: P02, 50 ml x 15.000 VND/ml = 750.000 VND)
+Order Total : 4.750.000 VND
+------------------------------------------------------------
